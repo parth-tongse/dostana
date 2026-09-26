@@ -1,0 +1,6 @@
+{
+  "name": "Dostana Discord Showcase",
+  "description": "Interactive Discord server showcase for Dostana with real-time live member activity status, leadership profiles, friend connection links, and fluid animations. All rights reserved to PARTH TONGSE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
